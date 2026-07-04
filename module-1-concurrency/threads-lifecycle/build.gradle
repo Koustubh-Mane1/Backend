@@ -1,0 +1,2 @@
+// No extra dependencies — plain JVM concurrency demos
+description = 'Demonstrates Java thread lifecycle states and transitions'

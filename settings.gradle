@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        mavenCentral()
+    }
+}
+
+rootProject.name = 'jvm-learning'
+
+// Module 0: JVM Internals
+include 'module-0-jvm:hello-world'
+
+// Module 1: Concurrency
+include 'module-1-concurrency:threads-lifecycle'
+
+// Module 2: Dependency Injection
+include 'module-2-di:spring-boot-basics'
+
+// Module 3: Web (add topics here as you go)
+// include 'module-3-web:...'
+
+// Module 4: Data (add topics here as you go)
+// include 'module-4-data:...'

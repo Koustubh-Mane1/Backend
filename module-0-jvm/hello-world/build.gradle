@@ -1,0 +1,2 @@
+// Pure JVM — no extra dependencies beyond root shared config
+description = 'Basic Java hello-world — entry point for JVM module'

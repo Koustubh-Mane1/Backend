@@ -8,6 +8,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/module-0-jvm" />
+            <option value="$PROJECT_DIR$/module-0-jvm/hello-world" />
+            <option value="$PROJECT_DIR$/module-1-concurrency" />
+            <option value="$PROJECT_DIR$/module-1-concurrency/threads-lifecycle" />
+            <option value="$PROJECT_DIR$/module-2-di" />
+            <option value="$PROJECT_DIR$/module-2-di/spring-boot-basics" />
           </set>
         </option>
         <option name="myGradleHome" value="" />
